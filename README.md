@@ -16,6 +16,7 @@ alt="Terraform" width="50" height="20"/>
 - **OS**: <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="20" height="20"/><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="20" height="20"/>  
 
 
+
 ### 🏆 Certifications
 ![Certified Kubernetes Security Specialist (CKS)](https://img.shields.io/badge/Certified%20Kubernetes%20Security%20Specialist-CKS-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-CKA-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
